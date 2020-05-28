@@ -8,3 +8,8 @@
 
 ### 2020.5.26
 - 项目创建，创建二手图书爬虫，创建Django项目
+
+### 2020.5.28
+- 加入vue.js 文件，设置中简化django操作
+- 设置跨域访问
+- 使用pip freeze 生成python依赖包文件 命令(pip freeze > requirements.txt)
